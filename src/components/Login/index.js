@@ -80,7 +80,7 @@ class Login extends Component {
               PASSWORD
             </label>
             <input
-              type="text"
+              type="password"
               placeholder="Password"
               className="username-input-field mt-3"
               id="password"

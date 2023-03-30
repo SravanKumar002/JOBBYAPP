@@ -1,3 +1,6 @@
+.link-item {
+  text-decoration: none;
+}
 .nav-header {
   display: flex;
   justify-content: center;
